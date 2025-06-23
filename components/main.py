@@ -1,6 +1,6 @@
 # =================================================================================
 #  CAPTURA DE LINKS DE VÍDEO - v5.3 (Diálogo Clicável e Persistência de Tema)
-#  Desenvolvido por Luiz. F. R. Pimentel e Gemini
+#  Desenvolvido por Luiz. F. R. Pimentel
 # =================================================================================
 import customtkinter as ctk
 from customtkinter import CTkFont
@@ -46,7 +46,7 @@ class AboutDialog(ctk.CTkToplevel):
         frame = ctk.CTkFrame(self)
         frame.pack(expand=True, fill="both", padx=20, pady=20)
 
-        label_dev = ctk.CTkLabel(frame, text="Desenvolvido por Luiz. F. R. Pimentel e Gemini", wraplength=350)
+        label_dev = ctk.CTkLabel(frame, text="Desenvolvido por Luiz. F. R. Pimentel", wraplength=350)
         label_dev.pack(pady=(0, 10))
 
         label_version = ctk.CTkLabel(frame, text=f"Versão: {version}")
