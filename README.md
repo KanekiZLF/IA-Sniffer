@@ -8,7 +8,7 @@ Um aplicativo de desktop robusto e intuitivo desenvolvido para automatizar a cap
 
 <br>
 
-![Screenshot da Aplicação](https://i.imgur.com/uG9p1K2.png)
+![Screenshot da Aplicação](https://img001.prntscr.com/file/img001/w_Zlw1itT3mWwZRNW4-CBQ.png)
 
 ---
 
