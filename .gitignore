@@ -1,0 +1,34 @@
+# ===================================================
+#  Arquivo .gitignore para o Capturador de Links
+# ===================================================
+
+# Ignorar pastas de ambiente virtual do Python
+venv/
+*/venv/
+env/
+*/env/
+
+# Ignorar cache do Python e arquivos compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar pastas de compilação do PyInstaller
+build/
+dist/
+output/
+*.spec
+
+# Ignorar arquivos gerados pela aplicação durante o uso
+*.log
+links.txt
+config.json
+
+# Ignorar arquivos de configuração de IDEs comuns
+.vscode/
+.idea/
+
+# Ignorar arquivos de sistema operacional
+.DS_Store
+Thumbs.db
