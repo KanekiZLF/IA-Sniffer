@@ -1,4 +1,4 @@
-# Capturador de Links de Vídeo v5.4 ✨
+# Capturador de Links de Vídeo v5.3 ✨
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -20,7 +20,7 @@ Para usuários que não desejam instalar Python e as dependências, uma versão 
 
 <div align="center">
 
-[**➡️ Baixar Capturador de Links v5.4 (Google Drive)**](https://drive.google.com/file/d/1jTbAuktbS4imdiKXJtWvNXy1Zh0ikWax/view?usp=sharing)
+[**➡️ Baixar Capturador de Links v5.3 (Google Drive)**](https://drive.google.com/file/d/1jTbAuktbS4imdiKXJtWvNXy1Zh0ikWax/view?usp=sharing)
 
 </div>
 
